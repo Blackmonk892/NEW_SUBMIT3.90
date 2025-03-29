@@ -1,0 +1,13 @@
+streamlit
+requests
+pydeck
+pandas
+streamlit-geolocation
+streamlit-folium
+folium
+fastapi
+uvicorn
+pandas
+requests
+python-multipart
+pydantic
